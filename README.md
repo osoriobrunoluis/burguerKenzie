@@ -12,5 +12,5 @@
   <h2> Rodando o projeto </h2>
   
   <h3>⚙️ Fazer o git clone no repositório<a href="https://github.com/osoriobrunoluis/burguerKenzie"> Kenzie Burguer </a></h3>
-  <p> Rodando o projeto  no terminal executar </p>
-  <p> npm run dev </p>  
+  <p>  - Rodando o projeto </p>
+  <p>  - Executar no terminal / npm run dev </p>  
